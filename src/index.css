@@ -1,0 +1,15 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts/font.css);
+@import url(./utils/global.css);
+
+@import url(./blocks/hide-part-text.css);
+/* @import url(./blocks/menu__link-active.css); */
+@import url(./blocks/opacity.css);
+@import url(./blocks/imageScale.css);
+@import url(./blocks/general-title.css);
+@import url(./blocks/title.css);
+@import url(./blocks/subtitle.css);
+@import url(./blocks/wrapper.css);
+@import url(./blocks/text.css);
+@import url(./blocks/home-container.css);
+@import url(./blocks/containerLink.css);
