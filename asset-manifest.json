@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myktybek-express/static/css/main.ac061b22.css",
-    "main.js": "/myktybek-express/static/js/main.29b87488.js",
+    "main.js": "/myktybek-express/static/js/main.67eba799.js",
     "static/media/hard1.png": "/myktybek-express/static/media/hard1.132343ed8f4a95a29f7c.png",
     "static/media/presentation.pdf": "/myktybek-express/static/media/presentation.893542183bf9cd014ac0.pdf",
     "static/media/background-image7.jpg": "/myktybek-express/static/media/background-image7.f535fbd4a286c8a63210.jpg",
@@ -51,10 +51,10 @@
     "static/media/iconFacebook.svg": "/myktybek-express/static/media/iconFacebook.5e1cb4b86ac3f872dadc.svg",
     "static/media/iconHamburger.svg": "/myktybek-express/static/media/iconHamburger.f2f1c37dbc3477d7ba9497f77e42ee21.svg",
     "main.ac061b22.css.map": "/myktybek-express/static/css/main.ac061b22.css.map",
-    "main.29b87488.js.map": "/myktybek-express/static/js/main.29b87488.js.map"
+    "main.67eba799.js.map": "/myktybek-express/static/js/main.67eba799.js.map"
   },
   "entrypoints": [
     "static/css/main.ac061b22.css",
-    "static/js/main.29b87488.js"
+    "static/js/main.67eba799.js"
   ]
 }
