@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/myktybek-express/static/css/main.8a87dfb7.css",
+    "main.css": "/myktybek-express/static/css/main.ac061b22.css",
     "main.js": "/myktybek-express/static/js/main.29b87488.js",
     "static/media/hard1.png": "/myktybek-express/static/media/hard1.132343ed8f4a95a29f7c.png",
     "static/media/presentation.pdf": "/myktybek-express/static/media/presentation.893542183bf9cd014ac0.pdf",
-    "static/media/background-image7.jpg": "/myktybek-express/static/media/background-image7.d24b6bf17179f280ca47.jpg",
+    "static/media/background-image7.jpg": "/myktybek-express/static/media/background-image7.f535fbd4a286c8a63210.jpg",
     "static/media/rent.pdf": "/myktybek-express/static/media/rent.e2b9a7a011e49ce536b9.pdf",
     "static/media/backTheBuses.jpg": "/myktybek-express/static/media/backTheBuses.315f97dd2c20eff6f451.jpg",
     "static/media/focus.jpg": "/myktybek-express/static/media/focus.4cb46097228e152f3ece.jpg",
@@ -50,11 +50,11 @@
     "index.html": "/myktybek-express/index.html",
     "static/media/iconFacebook.svg": "/myktybek-express/static/media/iconFacebook.5e1cb4b86ac3f872dadc.svg",
     "static/media/iconHamburger.svg": "/myktybek-express/static/media/iconHamburger.f2f1c37dbc3477d7ba9497f77e42ee21.svg",
-    "main.8a87dfb7.css.map": "/myktybek-express/static/css/main.8a87dfb7.css.map",
+    "main.ac061b22.css.map": "/myktybek-express/static/css/main.ac061b22.css.map",
     "main.29b87488.js.map": "/myktybek-express/static/js/main.29b87488.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a87dfb7.css",
+    "static/css/main.ac061b22.css",
     "static/js/main.29b87488.js"
   ]
 }
