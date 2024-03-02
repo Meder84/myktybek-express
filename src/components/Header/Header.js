@@ -77,7 +77,7 @@ function Header(props) {
           customNavTab={`header__navtab ${props.customHeaderNavTab}`}
         />
         {/* {props.children} */}
-        <a className="header__lang opacity">KG</a>
+        <a className="header__lang opacity">USA</a>
         {/* {
           showCloseBtn &&
           <button
